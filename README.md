@@ -27,7 +27,7 @@
 <br>
 
 <div align=center>
-        <p>🪪 SNS & E-Mail 🪪</p>
+        <p>💡 Contact 💡</p>
 </div>
 <div align=center>
         <a href="mailto::tgh7544@naver.com">
