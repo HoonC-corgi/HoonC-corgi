@@ -31,7 +31,7 @@
 </div>
 <div align=center>
         <a href="mailto::tgh7544@naver.com">
-                <img src="https://img.shields.io/badge/gmail-30B980?style=flat&logo=gmail&logoColor=white" />
+                <img src="https://img.shields.io/badge/naver-30B980?style=flat&logo=gmail&logoColor=white" />
         </a>
         <a href="https://www.instagram.com_ftxm_sx.02/">
                 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
