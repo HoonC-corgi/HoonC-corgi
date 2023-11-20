@@ -7,8 +7,9 @@
         <p>📖 Platforms & Languages 📖</p>
 </div>
 <div align="center">
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=4B4B77" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=4B4B77" />
+        
         
 </div>
 <br>
