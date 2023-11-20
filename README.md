@@ -3,7 +3,7 @@
 
 </div>
 <div align=center>
-        <h3>🖥️ Tech Stack 🖥️</h3>
+        <h1>🖥️ Tech Stack 🖥️</h3>
         <p>📖 Platforms & Languages 📖</p>
 </div>
 <div align="center">
@@ -14,11 +14,21 @@
         <img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white" />
         <img src="https://img.shields.io/badge/jetbrains-000000?style=flat&logo=jetbrains&logoColor=white" />
         <img src="https://img.shields.io/badge/macos-000000?style=flat&logo=macos&logoColor=white" />
-        
-        
-        
 </div>
+
 <br>
+
+<div align=center>
+        <p>🖥️ System & IDE 🖥️</p>
+</div>
+<div align="center">
+        <img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white" />
+        <img src="https://img.shields.io/badge/jetbrains-000000?style=flat&logo=jetbrains&logoColor=white" />
+        <img src="https://img.shields.io/badge/macos-000000?style=flat&logo=macos&logoColor=white" />
+</div>
+
+<br>
+
 <div align=center>
         <p>🪪 SNS & E-Mail 🪪</p>
 </div>
