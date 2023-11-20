@@ -40,5 +40,5 @@
                 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoonC-corgi)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoonC-corgi)](https://github.com/HoonC-corgi?tab=repositories)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoonC-corgi)
