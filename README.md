@@ -27,12 +27,10 @@
 <br>
 
 <div align=center>
-        <p>💡 Contact 💡</p>
+        <p>💡 Contacts 💡</p>
 </div>
 <div align=center>
-        <a href="mailto:tgh7544@naver.com">
-                <img src="https://img.shields.io/badge/Naver%20mail-30B980?style=flat&logo=naver&logoColor=white" />
-        </a>
+        ![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:rlatngus1691@naver.com)
         <a href="https://www.instagram.com/_ftxm_sx.02/">
                 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
         </a>
