@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-        <img src="https://img.shields.io/badge/Java-FF7800?style=flat&logo=Java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-FF7800?style=flat&logo=java&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=YOLO&logoColor=black" />
         <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
