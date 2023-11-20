@@ -10,6 +10,7 @@
         <img src="https://img.shields.io/badge/Java-FF7800?style=flat&logo=Conda-Forge&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=YOLO&logoColor=black" />
+        <img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white" />
         
         
 </div>
