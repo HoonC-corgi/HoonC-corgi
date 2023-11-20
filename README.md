@@ -10,10 +10,12 @@
         <img src="https://img.shields.io/badge/Java-FF7800?style=flat&logo=Conda-Forge&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=YOLO&logoColor=black" />
+        <img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
+        
         <img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white" />
         <img src="https://img.shields.io/badge/jetbrains-000000?style=flat&logo=jetbrains&logoColor=white" />
         <img src="https://img.shields.io/badge/macos-000000?style=flat&logo=macos&logoColor=white" />
-        <img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
+        
         
         
 </div>
