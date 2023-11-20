@@ -28,8 +28,7 @@
 </div>
 <div align=center>
         <br>
-        
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoonC-corgi&layout=compact">
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoonC-corgi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoonC-corgi)
