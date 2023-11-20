@@ -37,7 +37,7 @@
         </a>
 </div>
 <div align=center>
-        <br>
+<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoonC-corgi)
