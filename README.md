@@ -31,4 +31,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyung-Gunny&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=Hyung-Gunny&show_icons=true">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoonC-corgi&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoonC-corgi)
