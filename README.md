@@ -30,7 +30,7 @@
         <p>💡 Contact 💡</p>
 </div>
 <div align=center>
-        <a href="mailto::tgh7544@naver.com">
+        <a href="mailto:tgh7544@naver.com">
                 <img src="https://img.shields.io/badge/Naver%20mail-30B980?style=flat&logo=naver&logoColor=white" />
         </a>
         <a href="https://www.instagram.com/_ftxm_sx.02/">
