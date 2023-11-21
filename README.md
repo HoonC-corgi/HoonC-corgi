@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-        <img src="https://img.shields.io/badge/Java-FF7800?style=flat&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/JAVA-FF7800?style=flat&logo=java&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=YOLO&logoColor=black" />
         <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
@@ -23,6 +23,7 @@
         <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=white" />
         <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" />
         <img src="https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
 </div>
 
 <br>
