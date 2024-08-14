@@ -35,11 +35,8 @@
 </div>
 
 <div align=center>
-        <a href="mailto:tgh7544@naver.com">
-                <img src="https://img.shields.io/badge/Naver%20mail-30B980?style=flat&logo=naver&logoColor=white" />
-        </a>
-        <a href="https://www.instagram.com/_ftxm_sx.02/">
-                <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+        <a href="https://https://linktr.ee/HoonC_corgi">
+                <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" />
         </a>
 </div>
                 
