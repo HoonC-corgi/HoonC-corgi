@@ -23,7 +23,6 @@
 </div>
 <div align="center">
         <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" />
         <img src="https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white" />
         <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
 </div>
